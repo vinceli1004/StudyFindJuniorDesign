@@ -29,17 +29,17 @@
 # Install Information
 
 ## Prerequisites
-<ul>
-  <li> Have a device capable of running [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) </li>
-  <li> Understand how to [clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) a repository onto your local device </li>
-</ul>
+
+1. Have a device capable of running [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) </li>
+2. Understand how to [clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) a repository onto your local device </li>
+
 
 ## Dependent Libraries
-<ul>
-  <li> [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) </li>
-  <li> [npm](https://www.npmjs.com/get-npm) </li>
-  <li> [react](https://reactjs.org/docs/create-a-new-react-app.html) </li>
-</ul>
+
+1. [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) </li>
+2. [npm](https://www.npmjs.com/get-npm) </li>
+3. [react](https://reactjs.org/docs/create-a-new-react-app.html) </li>
+
 
 ## Download Instructions
 Clone the repository onto your local machine
