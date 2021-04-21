@@ -1,3 +1,15 @@
+# Release Notes
+
+## Features
+
+<ul>
+  <li>Query ClinicalTrials API for information on over 370,000+ research studies</li>
+  <li>View logistics about research studies in a condensed and digestible format</li>
+  <li>Represent data about research studies in 4 different visual mediums</li>
+  <li>Export tabular and graphical data to your personal device</li>
+  <li>Explore our dashboard in both light/dark modes on your desktop, tablet, and mobile device</li>
+</ul>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
