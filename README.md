@@ -1,4 +1,4 @@
-# Release Notes
+# Release Notes - Version 1.0
 
 ## Features
 
@@ -9,6 +9,51 @@
   <li>Export tabular and graphical data to your personal device</li>
   <li>Explore our dashboard in both light/dark modes on your desktop, tablet, and mobile device</li>
 </ul>
+
+## Bug Fixes
+
+<ul>
+  <li>Error checking for query inputs to the API</li>
+  <li>Properly filtering the research studies before displaying on graph</li>
+  <li>Removed references to unused imports and code</li>
+</ul>
+
+## Known Bugs 
+
+<ul>
+
+  <li>Re-rendering blinking when toggling dark mode on search page</li>
+  <li>Lack of a back button on the visualization page</li>
+</ul>
+
+# Install Information
+
+## Prerequisites
+<ul>
+  <li>Have a device capable of running [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)</li>
+  <li>Understand how to [clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) a repository onto your local device</li>
+</ul>
+
+## Dependent Libraries
+<ul>
+  <li>[git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)</li>
+  <li>[npm](https://www.npmjs.com/get-npm)</li>
+  <li>[react](https://reactjs.org/docs/create-a-new-react-app.html)</li>
+</ul>
+
+## Download Instructions
+Clone the repository onto your local machine
+
+## Install Instructions
+Navigate to the directory where you’ve cloned the app and install node dependencies using “npm install”
+
+## Run Instructions
+Run “npm start” in the directory where the app lives. See _Getting Started with Create React App_ for more detailed information.
+
+## Troubleshooting
+If the app fails to begin, make sure all node dependencies have been installed before starting the app.  
+If npm install fails, make sure you have the most recent versions of node.js and react installed.
+For application related bugs or issues, leave feedback for us on our [website](https://studyfind.org/)
 
 # Getting Started with Create React App
 
